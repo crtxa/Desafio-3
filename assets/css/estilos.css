@@ -1,0 +1,101 @@
+
+
+
+body {
+  text-align: center;
+  background: black;
+  color: white;
+}
+header {
+  height: 73px;
+  background-color: black;
+  overflow: hidden;
+  font-family: 'Raleway', sans-serif;
+}
+header h1 {
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 7px;
+}
+
+body * {
+  margin: 0 auto;
+  border: 0;
+  padding: 0;
+}
+
+.img1 {
+  width: 1180px;
+  height: 707px;
+}
+.description {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  font-family: 'Raleway', sans-serif;
+}
+p {
+  text-align: left;
+  top: 876px;
+  left: 150px;
+  width: 475px;
+}
+.iguana2 {
+  top: 845px;
+  left: 731px;
+  width: 399px;
+  height: 237px;
+}
+.caracteristicas {
+  padding-bottom: 70px;
+  padding-top: 70px;
+  background: #664919;
+  font-family: 'Raleway', sans-serif;
+}
+.caracteristicas h2 {
+  font-size: 40px;
+}
+.eventos {
+  margin-bottom: 70px;
+  margin-top: 70px;
+}
+.evento {
+  display: inline-block;
+}
+.evento1 {
+  padding-top: 50px;
+  display: inline-block;
+  margin-left: 130px;
+}
+
+h3 {
+  padding-top: 15px;
+  font-size: 25px;
+}
+.evento img {
+  width: 316px;
+  height: 202px;
+  margin-left: 20px;
+}
+.d1 {
+  display: inline-block;
+  vertical-align: middle;
+}
+.d1 p {
+  font-size: 16px;
+}
+
+.text {
+  margin-right: 150px;
+}
+
+footer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 20px;
+  background: #664919;
+  font-family: 'Raleway', sans-serif;
+}
+footer a {
+  color: white;
+}
